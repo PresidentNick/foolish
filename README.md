@@ -2,4 +2,4 @@
 
 Let's keep it foolish
 
-This is a feature branch
+This is the second feature branch that was branched off the first
